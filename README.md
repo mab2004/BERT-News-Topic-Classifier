@@ -50,7 +50,7 @@ The model achieved high performance across all classes, with particularly strong
 
 ## 🚀 How to Run the App (Google Colab)
 
-To run the Streamlit application and generate a public URL for live testing, execute the cells in the provided Jupyter Notebook (`[Your_Notebook_Name].ipynb`) sequentially.
+To run the Streamlit application and generate a public URL for live testing, execute the cells in the provided Jupyter Notebook sequentially.
 
 The final block, which uses the `pkill` and `time.sleep(30)` commands, is critical for successfully establishing the localtunnel connection after the model loads.
 
